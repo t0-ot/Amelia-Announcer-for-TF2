@@ -7,5 +7,5 @@ Resources also exists so I have a central place to convert audio files
 ### What's used?
 
   - An Extracted and trimmed down version of tf2_sound_vo_eng_dir.vpk
-  - A copy of the scripts folder from DavidLink's Sound Script mod
-  - The Stanely Fortress 2 Announcer Pack: Pick & Choose
+  - A copy of the scripts folder from DavidLink's Sound Script mod. [(Mod Link)](https://gamebanana.com/mods/36640)
+  - The Stanely Fortress 2 Announcer Pack: Pick & Choose. [(Mod Link)](https://gamebanana.com/sounds/25981)
