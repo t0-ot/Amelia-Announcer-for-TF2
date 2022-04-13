@@ -24,6 +24,6 @@ This Announcer pack uses the announcer voicelines from Paladins.
 
 Current version: Dev-V0.0.1
 
-Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Changelog.md)
+Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/main/Changelog.md)
 
 ## **This is the _development_ branch, please use the _main_ branch if you want a stable experience!**
