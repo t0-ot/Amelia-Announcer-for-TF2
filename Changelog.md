@@ -7,4 +7,4 @@
 # Todo
 - Start actually replacing the voice lines
 
-Dev-V0.0.1
+V0.0.0
