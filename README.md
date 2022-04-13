@@ -6,14 +6,14 @@ Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You 
 
 This Announcer pack uses the announcer voicelines from Paladins.
 
-  - ## What to expect?
+  - ## `What to expect?`
     - General Resp (Setup, End, Overtime Etc...)
     - Payload
     - Control Point
     - KS Acknowledgment
     - Vote Menu
     - KOTH
-  - ## Possibilities (Probably won't happen, or at least not fully implemented)
+  - ## `Possibilities`
     - MvM
     - Comp Mode
     - CTF
@@ -21,7 +21,9 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - MannPower
     - PassTime
     - Special Delivery
-# Version
+  - ## `Notes`
+    - The things listed in Possibilities are things that **might** not be fully implemented or at all
+# `Version`
 
 Current version:
 
