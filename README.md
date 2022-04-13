@@ -12,7 +12,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - KS Acknowledgment
     - Vote Menu
     - KOTH
-    - Unboxing Resp
+    - Misc
   - ## Possibilities (Probably won't happen, or at least not fully implemented)
     - MvM
     - Comp Mode
