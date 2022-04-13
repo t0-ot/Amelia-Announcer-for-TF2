@@ -1,7 +1,7 @@
-## **This is the _development_ branch, please use the _main_ branch if you want a stable experience!**
-
 # Amelia Announcer for TF2
 #### An Amelia Watson Announcer pack for TF2
+
+## **This is the _development_ branch, please use the _main_ branch if you want a stable experience!**
 
 # About
 Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
