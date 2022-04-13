@@ -44,6 +44,7 @@ Arena            | x            | x             |
 MannPower        | x            | x             |
 PassTime         | x            | x             |
 Special Delivery | x            | x             |
+KS Ack           | y            | x             |
 
 # Version
 
