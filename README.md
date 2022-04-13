@@ -1,11 +1,9 @@
 # Amelia Announcer for TF2
-#### An Amelia Watson Announcer pack for TF2
 
 <img align=right src="https://pbs.twimg.com/media/E4In0eSXEAEyok1.png" width="268" height="325" />
 
 ## **This is the _development_ branch, please use the _main_ branch if you want a stable experience!**
 
-# About
 Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
 
 This Announcer pack uses the announcer voicelines from Paladins.
