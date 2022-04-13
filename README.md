@@ -1,18 +1,25 @@
 # Amelia Announcer for TF2
 #### An Amelia Watson Announcer pack for TF2
 # About
-Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this mod!
+Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
 
 This Announcer pack uses the announcer voicelines from Paladins, but also includes lines from Ame's streams.
 
   - ## What to expect?
-    - Temp
-    - Temp
-    - Temp
-    - Temp
-    - Temp
-    - Temp
-    - Temp
+    - General Resp (Setup, End, Overtime Etc...)
+    - Payload
+    - Control Point
+    - KS Acknowledgment
+    - Vote Menu
+    - KOTH
+  - ## Possibilities (Probably won't happen, or at least not fully implemented)
+    - MvM
+    - Comp Mode
+    - CTF
+    - Arena
+    - MannPower
+    - PassTime
+    - Special Delivery
 # Version
 
 Current version: Dev-V0.0.1
