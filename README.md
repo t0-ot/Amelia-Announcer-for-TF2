@@ -3,7 +3,7 @@
 # About
 Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
 
-This Announcer pack uses the announcer voicelines from Paladins, but also includes lines from Ame's streams.
+This Announcer pack uses the announcer voicelines from Paladins.
 
   - ## What to expect?
     - General Resp (Setup, End, Overtime Etc...)
