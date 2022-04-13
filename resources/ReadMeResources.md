@@ -1,6 +1,8 @@
 # Resources
 
-This folder exists because I need examples to understand what is needed for the Announcer Pack
+Resources exists because I need examples to understand what is needed for the Announcer Pack
+
+Resources also exists so I have a central place to convert audio files
 
 ### What's used?
 
