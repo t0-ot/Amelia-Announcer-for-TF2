@@ -46,6 +46,7 @@ Arena            | x            | x             |
 MannPower        | x            | x             |
 PassTime         | x            | x             |
 Special Delivery | x            | x             |
+
 # Version
 
 Current version: Dev-V0.1.0
