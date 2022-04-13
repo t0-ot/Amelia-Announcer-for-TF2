@@ -16,7 +16,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - Vote Menu
     - KOTH
     - Misc
-  - ## `Possibilities` (Probably won't happen, or at least not fully implemented)
+  - ## `Possibilities`
     - MvM
     - Comp Mode
     - CTF
@@ -27,6 +27,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
   - ## `Notes`
     - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient =)
     - A guide for installing the development builds will be made sooner or later.
+    - The things listed in Possibilities are things that **might** not be fully implemented or at all
 
 # `Todo`
 Type vo          | Has Started? | Has completed |
