@@ -31,7 +31,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - [Credits](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Credits.md)
 
 # `Todo`
-Type vo          | Has Started? | Has completed |
+Type VO          | Has Started? | Has completed |
 -----------------| ------------ | ------------- |
 General resp     | x            | x             |
 PL               | x            | x             |
