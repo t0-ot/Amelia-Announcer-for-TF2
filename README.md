@@ -1,7 +1,7 @@
 # Amelia Announcer for TF2
 #### An Amelia Watson Announcer pack for TF2
 
-![alt text](https://static.wikia.nocookie.net/axl-univers-world/images/c/c9/Smol_Ame.png)
+<img align=right src="https://static.wikia.nocookie.net/axl-univers-world/images/c/c9/Smol_Ame.png" />
 
 # About
 Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
