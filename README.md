@@ -22,7 +22,6 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - CTF
     - Arena
     - MannPower
-    - PassTime
     - Special Delivery
   - ## `Notes`
     - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient =)
@@ -44,7 +43,6 @@ Comp             | x            | x             |
 CTF              | x            | x             |
 Arena            | x            | x             |
 MannPower        | x            | x             |
-PassTime         | x            | x             |
 Special Delivery | x            | x             |
 KS Ack           | y            | x             |
 
