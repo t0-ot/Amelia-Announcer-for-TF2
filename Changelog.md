@@ -2,9 +2,9 @@
 
 ### Changes Inclu:
 
-- POC Administrator can announce on tiered kills w/ killstreak weapons
+- Removed Dependency from DavidLink's Sv_pure 1 Bypass Sound Script
 
 # Todo
 - Start actually replacing the voice lines
 
-V0.0.0
+V1.0.0
