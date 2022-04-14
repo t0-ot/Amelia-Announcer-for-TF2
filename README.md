@@ -48,6 +48,6 @@ KS Ack           | y            | x             |
 
 # `Version`
 
-Current version: Dev-V0.1.0
+Current version: Dev-V1.0.0
 
 Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Changelog.md)
