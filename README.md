@@ -32,7 +32,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
 # `Todo`
 Type VO          | Has Started? | Has completed |
 -----------------| ------------ | ------------- |
-General resp     | x            | x             |
+General resp     | y            | x             |
 PL               | x            | x             |
 CP               | x            | x             |
 Vote Menu        | x            | x             |
