@@ -2,11 +2,15 @@
 
 <img align=right src="https://pbs.twimg.com/media/E4In0eSXEAEyok1.png" width="268" height="325" />
 
-## **This is the _development_ branch, please use the _main_ branch if you want a stable experience!**
+## ⚠️ **WARNING** ⚠️ This pack **does _not_ contain any voicelines** yet.
+
+## `This is the development branch, please use the main branch if you want a stable experience!`
 
 Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
 
 This Announcer pack uses the announcer voicelines from Paladins.
+
+
 
   - ## `What to expect? / Features`
     - General Resp (Setup, End, Overtime Etc...)
@@ -30,24 +34,24 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - [Credits](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Credits.md)
 
 # `Todo`
-Type VO          | Has Started? | Has completed |
------------------| ------------ | ------------- |
-General resp     | y            | x             |
-PL               | x            | x             |
-CP               | x            | x             |
-Vote Menu        | x            | x             |
-KOTH             | x            | x             |
-Misc             | x            | x             |
-MvM              | x            | x             |
-Comp             | x            | x             |
-CTF              | x            | x             |
-Arena            | x            | x             |
-MannPower        | x            | x             |
-Special Delivery | x            | x             |
-KS Ack           | y            | x             |
+
+
+- [ ] Completed General resp
+- [ ] Completed PL
+- [ ] Completed CP
+- [ ] Completed Vote Menu
+- [ ] Completed KOTH
+- [ ] Completed Misc
+- [ ] Completed MvM
+- [ ] Completed Comp
+- [ ] Completed CTF
+- [ ] Completed Arena
+- [ ] Completed MannPower
+- [ ] Completed Special Delivery
+- [ ] Completed KS Ack
 
 # `Version`
 
-Current version: Dev-V1.0.0
+Current version: `Dev-V1.0.0`
 
 Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Changelog.md)
