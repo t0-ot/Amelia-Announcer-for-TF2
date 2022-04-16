@@ -4,7 +4,7 @@
 
 ## ⚠️ **WARNING** ⚠️ This pack **does _not_ contain any voicelines** yet.
 
-## `This is the development branch, please use the main branch if you want a stable experience!`
+## This is the development branch, please use the main branch if you want a stable experience!
 
 Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
 
