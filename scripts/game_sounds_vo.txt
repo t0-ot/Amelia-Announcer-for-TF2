@@ -803,8 +803,6 @@
 		"wave"	"vo/killstreak/announcer_ks_18.mp3"
 		"wave"	"vo/killstreak/announcer_ks_19.mp3"
 		"wave"	"vo/killstreak/announcer_ks_20.mp3"
-		"wave"	"vo/killstreak/announcer_ks_21.mp3"
-		"wave"	"vo/killstreak/announcer_ks_22.mp3"
 	}
 
 }
