@@ -47,7 +47,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
 - [ ] Completed Arena
 - [ ] Completed MannPower
 - [ ] Completed Special Delivery
-- [ ] Completed KS Ack
+- [x] Completed KS Ack
 
 # `Version`
 
