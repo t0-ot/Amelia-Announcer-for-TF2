@@ -2,6 +2,6 @@
 
 ### Changes Inclu:
 
-- Removed Dependency from Davidlink's Sv_pure 1 Bypass Script Utility.
+- Killstreak lines now are from Ame and not the administrator!
 
-Dev-V1.0.0
+Dev-V2.0.0
