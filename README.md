@@ -2,7 +2,7 @@
 
 <img align=right src="https://pbs.twimg.com/media/E4In0eSXEAEyok1.png" width="268" height="325" />
 
-## ⚠️ **WARNING** ⚠️ This pack **does _not_ contain any voicelines** yet.
+## ⚠️ **WARNING** ⚠️ This pack *_Barely_ contains any lines at the moment!*
 
 ## This is the development branch, please use the main branch if you want a stable experience!
 
@@ -51,7 +51,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
 
 # `Version`
 
-Current version: `Dev-V1.0.0`
+Current version: `Dev-V2.0.0`
 
 Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Changelog.md)
 
