@@ -2,7 +2,7 @@
 
 <img align=right src="https://pbs.twimg.com/media/E4In0eSXEAEyok1.png" width="268" height="325" />
 
-## ⚠️ **WARNING** ⚠️ This pack *_Barely_ contains any lines at the moment!*
+## ⚠️ **WARNING** ⚠️ This pack *_barely_ contains any lines at the moment!*
 
 ## This is the development branch, please use the main branch if you want a stable experience!
 
