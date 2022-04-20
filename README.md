@@ -28,7 +28,7 @@ This Announcer pack uses the announcer voicelines from Paladins.
     - MannPower
     - Special Delivery
   - ## `Notes`
-    - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient =)
+    - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient :)
     - A guide for installing the development builds will be made sooner or later.
     - The things listed in Possibilities are things that **might** not be fully implemented or at all
 
