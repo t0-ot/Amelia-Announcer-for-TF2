@@ -5,8 +5,6 @@
 ## ⚠️ **WARNING** ⚠️ This is the Experimental branch here are no lines at the moment but it will have soon
 This is the Experimental branch, lines are pulled from Amelia's VODs instead of paladins, this branch maybe scraped due to the difficulty but we'll see.
 
-
-
   - ## `What to expect? / Features`
     - General Resp (Setup, End, Overtime Etc...)
     - Payload
@@ -24,11 +22,10 @@ This is the Experimental branch, lines are pulled from Amelia's VODs instead of 
     - Special Delivery
   - ## `Notes`
     - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient :)
-    - A guide for installing the development builds will be made sooner or later.
+    - A guide for installing will be made sooner or later.
     - The things listed in Possibilities are things that **might** not be fully implemented or at all
 
 # `Todo`
-
 
 - [ ] Completed General resp
 - [ ] Completed PL
