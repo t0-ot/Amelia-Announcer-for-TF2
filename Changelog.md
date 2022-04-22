@@ -2,6 +2,6 @@
 
 ### Changes Inclu:
 
-- Killstreak lines now are from Ame and not the administrator!
+- None
 
-Dev-V2.0.0
+EXP-V0.0.0
