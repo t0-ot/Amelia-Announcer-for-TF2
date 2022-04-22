@@ -2,13 +2,8 @@
 
 <img align=right src="https://pbs.twimg.com/media/E4In0eSXEAEyok1.png" width="268" height="325" />
 
-## ⚠️ **WARNING** ⚠️ This pack *_barely_ contains any lines at the moment!*
-
-## This is the development branch, please use the main branch if you want a stable experience!
-
-Ever dreamed of Amelia Watson as your Announcer in TF2? Well, wait no more! You can now live your Ame Announcer dreams with this pack!
-
-This Announcer pack uses the announcer voicelines from Paladins.
+## ⚠️ **WARNING** ⚠️ This is the Experimental branch here are no lines at the moment but it will have soon
+This is the Experimental branch, lines are pulled from Amelia's VODs instead of paladins, this branch maybe scraped due to the difficulty but we'll see.
 
 
 
@@ -47,12 +42,12 @@ This Announcer pack uses the announcer voicelines from Paladins.
 - [ ] Completed Arena
 - [ ] Completed MannPower
 - [ ] Completed Special Delivery
-- [x] Completed KS Ack
+- [ ] Completed KS Ack
 
 # `Version`
 
-Current version: `Dev-V2.0.0`
+Current version: `EXP-V0.0.0`
 
-Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Changelog.md)
+Interested what changed? [View Changelog](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Experiment/Changelog.md)
 
-[Credits](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Development/Credits.md)
+[Credits](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Experiment/Credits.md)
