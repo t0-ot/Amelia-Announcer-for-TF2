@@ -2,7 +2,7 @@
 
 <img align=right src="https://pbs.twimg.com/media/E4In0eSXEAEyok1.png" width="268" height="325" />
 
-## ⚠️ **WARNING** ⚠️ This is the Experimental branch here are no lines at the moment but it will have soon
+## ⚠️ **WARNING** ⚠️ This is the Experimental branch this branch doesn't have lines at the moment, but it may have soon.
 This is the Experimental branch, lines are pulled from Amelia's VODs instead of paladins, this branch maybe scraped due to the difficulty but we'll see.
 
   - ## `What to expect? / Features`
