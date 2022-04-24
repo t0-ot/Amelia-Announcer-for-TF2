@@ -13,19 +13,22 @@ This is the Experimental branch, lines are pulled from Amelia's VODs instead of 
     - Vote Menu
     - KOTH
     - Misc
-  - ## `Possibilities`
+
+- ## `Possibilities`
     - MvM
     - Comp Mode
     - CTF
     - Arena
     - MannPower
     - Special Delivery
-  - ## `Notes`
+
+- ## `Notes`
     - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient :)
     - A guide for installing will be made sooner or later.
     - The things listed in Possibilities are things that **might** not be fully implemented or at all
+    - Announcer lines are taken from streams, so some lines may have **some** background music on it
 
-# `Todo`
+# [`Todo`](https://github.com/t0-ot/Amelia-Announcer-for-TF2/blob/Experimental/Todo.md)
 
 - [ ] Completed General resp
 - [ ] Completed PL
