@@ -15,3 +15,8 @@ Arena            | x            | x             |
 MannPower        | x            | x             |
 Special Delivery | x            | x             |
 KS Ack           | x            | x             |
+
+
+
+ - Properly document of folders, and files
+ - Start finding VOD's to use
