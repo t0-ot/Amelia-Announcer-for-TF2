@@ -2,10 +2,13 @@
 
 <img align=right src="https://static.wikia.nocookie.net/axl-univers-world/images/c/c9/Smol_Ame.png" />
 
-## ⚠️ **WARNING** ⚠️ This is the Experimental branch this branch doesn't have lines at the moment, but it may have soon.
-This is the Experimental branch, lines are pulled from Amelia's VODs instead of paladins, this branch maybe scraped due to the difficulty, but we'll see.
+## ⚠️ **WARNING** ⚠️ This is still in-development as of now there aren't any custom ame lines just yet.
 
-  - ## `What to expect? / Features`
+# About
+
+This is an announcer mod for tf2 that replaces the default administrator voice with Amelia Watson.
+
+  - ## What to expect? / Features
     - General Resp (Setup, End, Overtime Etc...)
     - Payload
     - Control Point
@@ -14,7 +17,7 @@ This is the Experimental branch, lines are pulled from Amelia's VODs instead of 
     - KOTH
     - Misc
 
-- ## `Possibilities`
+- ## Possibilities
     - MvM
     - Comp Mode
     - CTF
@@ -22,9 +25,7 @@ This is the Experimental branch, lines are pulled from Amelia's VODs instead of 
     - MannPower
     - Special Delivery
 
-- ## `Notes`
-    - Since it's still in-dev, It will take a long time before it's going to be complete so please be patient :D
-    - A guide for installing will be made
+- ## Notes
     - The things listed in Possibilities are things that **might** not be fully implemented or at all
     - Announcer lines are taken from streams, so some lines may have **some** unwanted background noises
 

@@ -18,5 +18,5 @@ KS Ack           | x            | x             |
 
 
 
- - Properly document of folders, and files
- - Start finding VOD's to use
+ - Properly document folders and files
+ - Collect VODs
