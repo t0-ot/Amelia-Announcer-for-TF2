@@ -1029,7 +1029,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			")misc/achievement_earned.wav"
+	"wave"			")vo/misc/achievement_earned.wav"
 }
 
 
@@ -1356,7 +1356,7 @@
 	"soundlevel" 	"SNDLVL_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"UI/vote_started.wav"
+	"wave"		"vo/UI/vote_started.wav"
 }
 
 "Vote.Passed"
@@ -1365,7 +1365,7 @@
 	"soundlevel" 	"SNDLVL_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"UI/vote_success.wav"
+	"wave"		"vo/UI/vote_success.wav"
 }
 
 "Vote.Failed"
@@ -1374,7 +1374,7 @@
 	"soundlevel" 	"SNDLVL_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"UI/vote_failure.wav"
+	"wave"		"vo/UI/vote_failure.wav"
 }
 
 "Vote.Cast.Yes"
@@ -1383,7 +1383,7 @@
 	"soundlevel" 	"SNDLVL_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"UI/vote_yes.wav"
+	"wave"		"vo/UI/vote_yes.wav"
 }
 
 "Vote.Cast.No"
@@ -1392,7 +1392,7 @@
 	"soundlevel" 	"SNDLVL_NORM"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"UI/vote_no.wav"
+	"wave"		"vo/UI/vote_no.wav"
 }
 
 
