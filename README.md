@@ -1,4 +1,6 @@
-# Amelia Announcer for TF2
+<h1 align=center>Amelia Announcer for TF2🔎</h1>
+
+<p align=center>An Amelia Watson Announcer pack for TF2</p>
 
 <img align=right src="https://static.wikia.nocookie.net/axl-univers-world/images/c/c9/Smol_Ame.png" />
 
@@ -6,7 +8,7 @@
 
 This is an announcer mod for TF2 that changes the announcer with Amelia Watson.
 
-## Planned features
+## Planned features :sparkles:
 
     - General Resp (Setup, End, Overtime Etc...)
     - Payload
@@ -22,13 +24,13 @@ This is an announcer mod for TF2 that changes the announcer with Amelia Watson.
     - MannPower
     - Special Delivery
 
-## Notes
+## Notes :memo:
 
     - This is in-development as of now this doesn't contain any custom voice lines.
     - The things listed in Possibilities are things that might not be implemented
     - Announcer lines are taken from streams, so some lines may have some unwanted background noise
 
-# Todo
+# Todo :construction:
 
 - [ ] General resp
 - [ ] PL
