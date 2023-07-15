@@ -758,8 +758,8 @@
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
 	
-	"wave"		"#misc/your_team_stalemate.mp3"	[$WIN32]
-	"wave"		"#misc/your_team_stalemate.wav"	[$X360]
+	"wave"		"#vo/misc/your_team_stalemate.mp3"	[$WIN32]
+	"wave"		"#vo/misc/your_team_stalemate.wav"	[$X360]
 }
 
 "Game.Overtime"
@@ -784,8 +784,8 @@
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"#misc/your_team_lost.mp3"	[$WIN32]
-	"wave"		"#misc/your_team_lost.wav"	[$X360]
+	"wave"		"#vo/misc/your_team_lost.mp3"	[$WIN32]
+	"wave"		"#vo/misc/your_team_lost.wav"	[$X360]
 }
 
 "Game.YourTeamWon"
@@ -795,8 +795,8 @@
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"#misc/your_team_won.mp3"	[$WIN32]
-	"wave"		"#misc/your_team_won.wav"	[$X360]
+	"wave"		"#vo/misc/your_team_won.mp3"	[$WIN32]
+	"wave"		"#vo/misc/your_team_won.wav"	[$X360]
 }
 
 "Game.Revenge"
@@ -3144,7 +3144,11 @@
 	"volume"		"1"
 	"soundlevel"  	"SNDLVL_NONE"
 	"pitch"			"PITCH_NORM"
-	"wave"			"ui/mm_match_end_win_music_casual.wav"
+	"rndwave"	
+	{
+		"wave"	"vo/ui/mm_match_end_win_music_casual.wav"
+		"wave"	"vo/ui/mm_match_end_win_music_casual1.wav"
+	}
 }
 
 "MatchMaking.MatchEndLoseMusicCasual"
@@ -3153,7 +3157,12 @@
 	"volume"		"1"
 	"soundlevel"  	"SNDLVL_NONE"
 	"pitch"			"PITCH_NORM"
-	"wave"			"ui/mm_match_end_lose_music_casual.wav"
+	"rndwave"	
+	{
+		"wave"	"vo/ui/mm_match_end_lose_music_casual.wav"
+		"wave"	"vo/ui/mm_match_end_lose_music_casual1.wav"
+		"wave"	"vo/ui/mm_match_end_lose_music_casual2.wav"
+	}
 }
 
 "MatchMaking.RoundEndBlueWinMusic"

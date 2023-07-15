@@ -6,11 +6,12 @@
 
 # About
 
-This is an announcer mod for TF2 that changes the announcer with Amelia Watson.
+This is a replacement announcer mod for TF2 that changes the default announcer with Amelia Watson.
 
 ## Planned features :sparkles:
 
     - General Resp (Setup, End, Overtime Etc...)
+    - Matchmaking
     - Payload
     - Control Point
     - KS Acknowledgment
@@ -18,7 +19,6 @@ This is an announcer mod for TF2 that changes the announcer with Amelia Watson.
     - KOTH
     - Misc
     - MvM
-    - Comp Mode
     - CTF
     - Arena
     - MannPower
@@ -26,13 +26,19 @@ This is an announcer mod for TF2 that changes the announcer with Amelia Watson.
 
 ## Notes :memo:
 
-    - This is in-development as of now this doesn't contain any custom voice lines.
-    - The things listed in Possibilities are things that might not be implemented
-    - Announcer lines are taken from streams, so some lines may have some unwanted background noise
+    - Things listed in Possibilities are things that might not be implemented!
+    - Announcer lines are taken from streams, so some lines may have some unwanted background noise!
 
 # Todo :construction:
 
-- [ ] General resp
+## Non-Gamemode Specific 🌎
+
+- [x] General resp
+- [ ] Matchmaking
+- [ ] Killstreak Acknowledgement
+
+## Gamemodes 🎮
+
 - [ ] PL
 - [ ] CP
 - [ ] Vote Menu
@@ -44,4 +50,4 @@ This is an announcer mod for TF2 that changes the announcer with Amelia Watson.
 - [ ] Arena
 - [ ] MannPower
 - [ ] Special Delivery
-- [ ] KS Ack
+
