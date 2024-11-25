@@ -17,7 +17,7 @@ jobs:
             - run: pip install vpk
               name: Install VPK binary
             - run: 'vpk --create . Amelia-Announcer-Pack.vpk'
-            - uses: actions/upload-artifct@v4
+            - uses: actions/upload-artifact@v4
               with:
                 name: TF2 VALVE PAK FILE
                 path: Amelia-Announcer-Pack.vpk
