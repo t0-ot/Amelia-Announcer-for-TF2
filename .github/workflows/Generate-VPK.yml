@@ -16,7 +16,7 @@ jobs:
             - run: echo "⏱️ Finding The Time Watch"
             - run: pip install vpk
               name: Install VPK binary
-            - run: 'vpk --create . Amelia-Announcer-Pack.vpk'
+            - run: 'vpk Amelia-Announcer-Pack.vpk'
             - uses: actions/upload-artifact@v4
               with:
                 name: TF2 VALVE PAK FILE
