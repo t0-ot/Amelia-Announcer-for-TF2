@@ -17,7 +17,6 @@ jobs:
             - run: pip install vpk
               name: Install VPK binary
             - run: |
-                  rm -rf .git
                   rm -rf .github
                   rm -rf README.md
                   name: Clean git files
