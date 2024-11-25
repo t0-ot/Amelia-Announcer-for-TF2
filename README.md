@@ -2,7 +2,7 @@
 
 <p align=center>An Amelia Watson Announcer pack for TF2</p>
 
-<img align=right src="https://static.wikia.nocookie.net/axl-univers-world/images/c/c9/Smol_Ame.png" />
+<img align=right src="https://i0.wp.com/walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-133.gif?resize=560%2C659&ssl=1" width="200" />
 
 # About
 
@@ -26,27 +26,30 @@ This is a replacement announcer mod for TF2 that changes the default announcer w
 
 ## Notes :memo:
 
-    - Things listed in Possibilities are things that might not be implemented!
     - Announcer lines are taken from streams, so some lines may have some unwanted background noise!
 
 # Todo :construction:
 
+## Repository 📦
+
+ - [ ] Create a build workflow
+
 ## Non-Gamemode Specific 🌎
 
 - [x] General resp
-- [ ] Matchmaking
-- [ ] Killstreak Acknowledgement
+- [-] Matchmaking
+- [x] Killstreak Acknowledgement
 
 ## Gamemodes 🎮
 
-- [ ] PL
-- [ ] CP
-- [ ] Vote Menu
-- [ ] KOTH
+- [x] PL
+- [x] CP
+- [x] Vote Menu
+- [x] KOTH
 - [ ] Misc
 - [ ] MvM
 - [ ] Comp
-- [ ] CTF
+- [-] CTF
 - [ ] Arena
 - [ ] MannPower
 - [ ] Special Delivery
