@@ -1,0 +1,24 @@
+name: BUILD TF2 VPK
+
+on:
+    [push, workflow_dispatch]
+
+
+jobs:
+    Generate-VPK:
+        runs-on: unbuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-python@v5
+              with:
+                python-version: '3.13'
+            - run: echo "🎉 Creating a VPK"
+            - run: echo "⏱️ Finding The Time Watch"
+            - run: pip install vpk
+              name: Install VPK binary
+            - run: 'vpk --create . Amelia-Announcer-Pack.vpk'
+            - uses: actions/upload-artifct@v4
+              with:
+                name: TF2 VALVE PAK FILE
+                path: Amelia-Announcer-Pack.vpk
+            - run: echo "🍵 Success! Enjoy Teamates!"
