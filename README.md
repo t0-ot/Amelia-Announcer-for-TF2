@@ -8,31 +8,11 @@
 
 This is a replacement announcer mod for TF2 that changes the default announcer with Amelia Watson.
 
-## Planned features :sparkles:
-
-    - General Resp (Setup, End, Overtime Etc...)
-    - Matchmaking
-    - Payload
-    - Control Point
-    - KS Acknowledgment
-    - Vote Menu
-    - KOTH
-    - Misc
-    - MvM
-    - CTF
-    - Arena
-    - MannPower
-    - Special Delivery
-
 ## Notes :memo:
 
     - Announcer lines are taken from streams, so some lines may have some unwanted background noise!
 
-# Todo :construction:
-
-## Repository 📦
-
- - [ ] Create a build workflow
+# Planned Features :construction:
 
 ## Non-Gamemode Specific 🌎
 
