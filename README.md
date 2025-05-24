@@ -37,7 +37,7 @@ This is a replacement announcer mod for TF2 that changes the default announcer w
 ## Non-Gamemode Specific 🌎
 
 - [x] General resp
-- [-] Matchmaking
+- [x] Matchmaking
 - [x] Killstreak Acknowledgement
 
 ## Gamemodes 🎮
