@@ -49,7 +49,7 @@ This is a replacement announcer mod for TF2 that changes the default announcer w
 - [ ] Misc
 - [ ] MvM
 - [ ] Comp
-- [-] CTF
+- [x] CTF
 - [ ] Arena
 - [ ] MannPower
 - [ ] Special Delivery
