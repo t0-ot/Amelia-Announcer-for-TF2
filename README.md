@@ -10,7 +10,7 @@ This is a replacement announcer mod for TF2 that changes the default announcer w
 
 ## Notes :memo:
 
-    - Announcer lines are taken from streams, so some lines may have some unwanted background noise!
+- Announcer lines are taken from streams, so some lines may have some unwanted background noise!
 
 # Planned Features :construction:
 
